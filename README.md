@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janvavrina
 - 👨‍🎓 I’m currently studying computer science and economics.
-- 👀 I’m interested in QA and data science.
+- 👀 I’m interested in QA, data science, databases and backend development.
 - 🌱 I’m currently learning Python and Cypress.
 - 💞️ I’m looking to collaborate on QA automated tests.
 
